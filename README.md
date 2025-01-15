@@ -42,3 +42,5 @@ Mark tasks as completed using the green checkmark.
 
 Delete tasks using the red trash icon.
 
+![Todo-redux-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3e89522a-680d-4489-9974-05e148f16061)
+
