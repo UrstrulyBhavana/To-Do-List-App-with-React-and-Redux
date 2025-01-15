@@ -1,15 +1,15 @@
-import React from 'react';
-import AddTaskForm from './Redux/AddTaskForm';
-import TodoList from './TodoList';
+import React from "react";
+import TaskInput from "./components/TaskInput";
+import TaskList from "./components/TaskList";
 
-function App() {
+const App = () => {
   return (
-    <div className="container">
-      <h1 className="text-center mt-4">Todo List App With Redux</h1>
-      <AddTaskForm />
-      <TodoList />
+    <div className="app">
+      <h1>To Do List</h1>
+      <TaskInput />
+      <TaskList />
     </div>
   );
-}
+};
 
 export default App;
