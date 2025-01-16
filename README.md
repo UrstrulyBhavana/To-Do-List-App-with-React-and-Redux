@@ -1,11 +1,11 @@
 
-    To-Do List Application with React and Redux
+# To-Do List Application with React and Redux
     
 A visually appealing, fully responsive To-Do List Application built using modern web development technologies like React, Redux, and CSS.
 
 This app demonstrates CRUD operations (Create, Read, Update, Delete) with state management using Redux.
 
-    Features:-
+## Features:-
     
 Add Tasks :- Users can add new tasks to their to-do list.
 
@@ -19,7 +19,7 @@ Responsive Design :- The app works seamlessly across desktop, tablet, and mobile
 
 Clean and Minimal UI:- Gradient background with a modern and visually appealing design.
 
-    Technologies Used
+## Technologies Used
     
 React :- For building a dynamic, component-based UI.
 
@@ -34,13 +34,14 @@ A visually appealing, fully responsive To-Do List Application built using modern
 This app demonstrates CRUD operations (Create, Read, Update, Delete) with state management using Redux.
 
 
-    How to Use the App :- 
+## How to Use the App :- 
     
 Add a task using the input field and click the "+" button.
 
 Mark tasks as completed using the green checkmark.
 
 Delete tasks using the red trash icon.
+
 
 ![Todo-redux-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3e89522a-680d-4489-9974-05e148f16061)
 
